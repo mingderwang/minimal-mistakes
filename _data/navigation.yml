@@ -1,13 +1,16 @@
 # Site navigation links
 
-- title: About
-  url: /about/
-
-- title: Sample Posts
-  url: /posts/
-
-- title: Theme Setup
+- title: 產品之旅
   url: /theme-setup/
 
-- title: Made Mistakes
-  url: http://mademistakes.com
+- title: 服務價格
+  url: /pricing/
+
+- title: 技術日誌
+  url: /posts/
+
+- title: 關於我們
+  url: /about/
+
+- title: chef伺服器
+  url: https://chef.log7.info
