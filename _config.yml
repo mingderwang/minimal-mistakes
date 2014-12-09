@@ -2,8 +2,8 @@
 
 title:            Log4資料分析公司
 locale:           en_US
-#url:              //localhost:4000 
-url:              //www.log7.info
+url:              //localhost:4000
+#url:              //www.log7.info
 
 
 # Jekyll configuration
@@ -27,20 +27,20 @@ kramdown:
 
 # Site owner
 owner:
-  name: Log4資料分析 
+  name: Log4資料分析
   avatar: bio-photo.jpg
   bio: "提供系統資料收集監控與分析工具"
   email: ming@log4analytics.coom
-  disqus-shortname: 
+  disqus-shortname:
   twitter: mingderwang
   facebook: log4analytics
   google:
     plus: mingderwang
-    analytics: 
-    verify: 
-    ad-client: 
-    ad-slot: 
-  bing-verify: 
+    analytics:
+    verify:
+    ad-client:
+    ad-slot:
+  bing-verify:
   github: mingder78
   stackoverflow: #http://stackoverflow.com/users/123456/username
   linkedin: #username
