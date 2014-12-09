@@ -5,7 +5,7 @@ tags: [about, log4analytics]
 modified: 2014-12-08 17:11
 comments: true
 image:
-  feature: sample-image-2.jpg
+  feature: sample-image-4.jpg
   credit: WeGraphics
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
