@@ -1,8 +1,8 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, responsive]
-modified: 2014-08-08T20:53:07.573882-04:00
+title: 關於我們
+tags: [about, log4analytics]
+modified: 2014-12-08 17:11
 comments: true
 image:
   feature: sample-image-2.jpg
@@ -10,16 +10,23 @@ image:
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
-Minimal Mistakes is responsive Jekyll theme with large featured images and solid typography. As the name implies the styling is fairly minimal to make it easier for you to build on top of.
+Log4 Ananlytics, Inc. 是一家以人工智慧研發為核心技術之資料分析協力廠商, 致力於提供中小企業最物美價廉之資料收集, 視覺化分析, 自動預警等服務. 
 
-## Minimal Mistakes is all about:
+#### 提供以下幾類軟體之快速安裝及客製化開發 
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 8+ and all modern browsers. 
-* Minimal embellishments -- content first.
-* Optional large feature images for posts and pages.
-* Simple and clear permalink structure.
-* [Custom 404 page](http://mmistakes.github.io/minimal-mistakes/404.html) to get you started.
-* Support for Disqus Comments
+### DevOps 基本工具
 
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
+* Kibana, Logstash, & ElasticSearch
+* Splunk
+
+### MIS 系統管理
+
+* Chef server
+* Puppet
+
+### 資料分析開發環境
+
+* Spark
+* Hadoop
+
+<a markdown="0" href="{{ site.url }}/products" class="btn btn-info">已開始提供服務之產品</a>
