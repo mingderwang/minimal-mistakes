@@ -2,7 +2,7 @@
 layout: page
 title: 關於我們
 tags: [about, log4analytics]
-modified: 2014-12-08 17:11
+modified: 2015-03-03 16:11
 comments: true
 image:
   feature: sample-image-4.jpg
@@ -17,7 +17,7 @@ Log4 Ananlytics, Inc. 是一家以人工智慧研發為核心技術之資料分�
 ### DevOps 基本工具
 
 * Kibana, Logstash, & ElasticSearch
-* Splunk
+* rethinkDb
 
 ### MIS 系統管理
 
